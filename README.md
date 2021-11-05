@@ -4,9 +4,9 @@ Repositorio para el plan de calidad usado en la clase 13
 ### 1 Identificador
  13
 ### 2 Referencias
-# Formato
- [Texto] (https://guides.github.com/features/mastering-markdown/)
-#Proyecto
+Formato
+[Texto] (https://guides.github.com/features/mastering-markdown/)
+Proyecto
 § Project Plan 
 § Requirements specifications 
 § High Level design document
